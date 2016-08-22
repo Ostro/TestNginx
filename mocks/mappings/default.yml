@@ -1,0 +1,6 @@
+get_test:
+  request:
+    method: POST
+    url:    /test
+  response:
+    body: test
